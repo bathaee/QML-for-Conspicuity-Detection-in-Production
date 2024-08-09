@@ -60,6 +60,8 @@ For Task 4, we follow two strategies. First, we encode a real value sample in bi
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
-https://docs.google.com/presentation/d/1AFHkWSujBewsu2mIN09ye2jk2ahBGaZN/edit?usp=sharing&ouid=110859617138535429570&rtpof=true&sd=true
+
+[Presentation](https://docs.google.com/presentation/d/1AFHkWSujBewsu2mIN09ye2jk2ahBGaZN/edit?usp=sharing&ouid=110859617138535429570&rtpof=true&sd=true)
+
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
